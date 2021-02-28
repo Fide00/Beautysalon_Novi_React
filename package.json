@@ -1,6 +1,6 @@
 {
-  "name": "oefenen",
-  "version": "0.1.0",
+  "name": "beautysalon-novi-react",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.13.8",
