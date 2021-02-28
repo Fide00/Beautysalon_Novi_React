@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Gezichtsreiniging",
+    "price": "10",
+    "image": "https://i.ibb.co/ykJ0c6z/gezichtsreiniging.png"
+  },
+  {
+    "id": "2",
+    "name": "Gezichtspeeling",
+    "price": "20",
+    "image": "https://i.ibb.co/27JSSrz/Gezichtspeeling.png"
+  },
+  {
+    "id": "3",
+    "name": "Gezichtsmasker",
+    "price": "15",
+    "image": "https://i.ibb.co/7NzMgZt/Gezichtsmasker.png"
+  },
+  {
+    "id": "4",
+    "name": "Verven wimpers",
+    "price": "12",
+    "image": "https://i.ibb.co/j8QRzg8/Wimpers-verven.png"
+  },
+  {
+    "id": "5",
+    "name": "Verven wenkbrauwen",
+    "price": "12",
+    "image": "https://i.ibb.co/TTGvHvW/wenkbrauwen-en-wimpers-verven.png"
+  },
+  {
+    "id": "6",
+    "name": "Verven wimpers en wenkbrauwen",
+    "price": "18",
+    "image": "https://i.ibb.co/1fZqGT6/wenkbrauwen-verven.png"
+  },
+  {
+    "id": "7",
+    "name": "Hyaluronic Acid",
+    "price": "25",
+    "image": "https://i.ibb.co/vjQGD3Y/serum.png"
+  },
+  {
+    "id": "8",
+    "name": "Dag- en nachtcreme Vitamine E",
+    "price": "33",
+    "image": "https://i.ibb.co/L8KQd1g/Creme.png"
+  }
+]
